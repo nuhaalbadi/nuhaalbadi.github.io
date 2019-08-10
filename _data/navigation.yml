@@ -11,7 +11,7 @@ main:
   # - title: "Sitemap"
   #   url: /sitemap/
     - title: "Home"
-      url: /Home/
+      url: https://nuhaalbadi.com/
     - title: "Education"
       url: /Education/
     - title: "Experience"
