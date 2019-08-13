@@ -12,9 +12,9 @@ main:
   #   url: /sitemap/
     - title: "Home"
       url:  https://nuhaalbadi.com
+    - title: "Publications"
+      url: /Publications/
     - title: "Education"
       url: /Education/
     - title: "Experience"
       url: /Experience/
-    - title: "Publications"
-      url: /Publications/
