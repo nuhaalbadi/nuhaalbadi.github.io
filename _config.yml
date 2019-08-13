@@ -20,7 +20,7 @@ title                    : "Nuha Albadi"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Nuha Albadi"
-description              : "An amazing website."
+description              : "Personal Website"
 url                      : "https://github.io.nuhaalbadi" # the base hostname & protocol for your site e.g.
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -109,9 +109,11 @@ analytics:
 author:
   name             : "Nuha Albadi"
   avatar           : "/assets/images/prof_pic2.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Computer Science PhD student"
+#  bio              : "Computer Science PhD student"
 #  location         : "Boulder, CO"
-  email            :
+  email            : "nuha.albadi@colorado.edu"
+  github           : "nuhaalbadi"
+  linkedin         : "nuha-albadi-79191b64"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
