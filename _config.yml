@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Nuha Albadi"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Nuha Albadi - PhD student @ CU Boulder"
+name                     : "Nuha Albadi"
 description              : "PhD student @ CU Boulder"
 url                      : "https://github.io.nuhaalbadi" # the base hostname & protocol for your site e.g.
 baseurl                  : # the subpath of your site, e.g. "/blog"
