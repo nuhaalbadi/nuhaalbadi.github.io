@@ -6,7 +6,7 @@ author_profile: true
 comments: false
 ---
 
-- Maram Kurdi, Nuha Albadi, and Shivakant Mishra (2020). ** “Think before you upload”: an in-depth analysis of unavailable videos on YouTube**. *Social Network Analysis and Mining,* 11(1). ([DOI](https://doi.org/10.1007/s13278-021-00755-x){:target="_blank"})
+- Maram Kurdi, Nuha Albadi, and Shivakant Mishra (2021). ** “Think before you upload”: an in-depth analysis of unavailable videos on YouTube**. *Social Network Analysis and Mining,* 11(1). ([DOI](https://doi.org/10.1007/s13278-021-00755-x){:target="_blank"})
 
 - Maram Kurdi, Nuha Albadi, and Shivakant Mishra (2020). ** “Video Unavailable”: Analysis and Prediction of Deleted and Moderated YouTube Videos**. *Proceedings of the IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining* (ASONAM ’20). ([DOI](https://doi.org/10.1109/ASONAM49781.2020.9381310){:target="_blank"})
 
