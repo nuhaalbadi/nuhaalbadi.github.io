@@ -8,8 +8,6 @@ comments: false
 
 ## Work Experience
 
-- 2022-present: *Teaching Assistant*, Computer Science Department, **University of Colorado**, Boulder, USA
-
 - 2017-present: *Lecturer*, Computer Science Department, **Taibah University**, Medina, Saudi Arabia
 
 - 2013-2017: *Teaching Assistant*, Computer Science Department, **Taibah University**, Medina, Saudi Arabia
