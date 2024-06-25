@@ -6,6 +6,10 @@ author_profile: true
 comments: false
 ---
 
+
+- Maram Kurdi, Nuha albadi, and Shivakant Mishra (2024). **Ten Seconds Can Last Longer: Prevalence, Impact, and User Perceptions of Food Cues on Snapchat**. *Proceedings of the ACM on Human-Computer Interaction* (CSCW ’24). ([DOI]( https://doi.org/10.1145/3637404){:target="_blank"})
+
+
 - Nuha Albadi, Maram Kurdi, and Shivakant Mishra (2022). **Deradicalizing YouTube: Characterization, Detection, and Personalization of Religiously Intolerant Arabic Videos**. *Proceedings of the 25th ACM Conference on Computer Supported Cooperative Work* (CSCW ’22). ([Preprint](https://arxiv.org/abs/2207.00111){:target="_blank"},[DOI]( https://doi.org/10.1145/3555618){:target="_blank"}, [Data](https://osf.io/cf9w8/?view_only=aa81f43ff28c4faaa7514ccccc6a386c){:target="_blank"})
 
 - Maram Kurdi, Nuha Albadi, and Shivakant Mishra (2021). **“Think before you upload”: an in-depth analysis of unavailable videos on YouTube**. *Social Network Analysis and Mining,* 11(1). ([DOI](https://doi.org/10.1007/s13278-021-00755-x){:target="_blank"})

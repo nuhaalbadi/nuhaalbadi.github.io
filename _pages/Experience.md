@@ -8,7 +8,9 @@ comments: false
 
 ## Work Experience
 
-- 2017-present: *Lecturer*, Computer Science Department, **Taibah University**, Medina, Saudi Arabia
+- 2023-Present: *Assistant Professor*, Artificial Intelligence and Data Science Department, **Taibah University**, Medina, Saudi Arabia
+
+- 2017-2023: *Lecturer*, Computer Science Department, **Taibah University**, Medina, Saudi Arabia
 
 - 2013-2017: *Teaching Assistant*, Computer Science Department, **Taibah University**, Medina, Saudi Arabia
 
