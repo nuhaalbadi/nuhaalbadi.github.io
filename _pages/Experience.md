@@ -8,7 +8,7 @@ comments: false
 
 ## Work Experience
 
-- 2023-2025: *Assistant Professor*, Information and Computer Science Department, **King Fahd University of Petroleum and Minerals**, Dhahran, Saudi Arabia
+- 2025-Present: *Assistant Professor*, Information and Computer Science Department, **King Fahd University of Petroleum and Minerals**, Dhahran, Saudi Arabia
 
 - 2023-2025: *Assistant Professor*, Artificial Intelligence and Data Science Department, **Taibah University**, Medina, Saudi Arabia
 
